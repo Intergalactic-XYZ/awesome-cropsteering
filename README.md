@@ -34,6 +34,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 ## AI / ML
 
 - [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
+- [Plant disease](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
 
 **[⬆ back to top](#contents)**
 
