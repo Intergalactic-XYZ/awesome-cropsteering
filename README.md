@@ -2,12 +2,12 @@
 
 A curated list of OpenSource project in indoor/outdoor agriculture automation, crop steering and cannabis cultivation.
 
-## Contents
+## **Contents**
 
 - [Awesome Crop Steering](#awesome-crop-steering)
   - [Contents](#contents)
-  - [AI/ML](#ai--ml)
-  - [Automation](#automation)
+  - [AI/ML](#aiml)
+  - [Automation](#grow-automation)
   - [Calculators](#calculators)
   - [Facility management](#facility-management)
   - [Irrigation](#irrigation)
@@ -31,14 +31,14 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
     - [Visualization platforms](#visualization-platforms)
   - [Other awesome lists](#other-awesome-lists)
   
-## AI / ML
+## **AI/ML**
 
 - [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
 - [Plant disease](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
 
 **[⬆ back to top](#contents)**
 
-## Grow Automation
+## **Grow Automation**
 
 - [DROMatic OS](https://github.com/drolsen/DRO-Matic) - The DRO-Matic OS has been built to automate nearly every aspect of hydroponic farming for you! From nutrient dosing to pH / EC drift fixing, feeding types to draining, top-offs and even timers; we have quantified everything you need to automate successful crops.
 
@@ -52,13 +52,13 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 **[⬆ back to top](#contents)**
 
-## Calculators
+## **Calculators**
 
 - [WEGA-HPG](https://github.com/WEGA-project/wega-hpg) - HPG Calculator
 
 **[⬆ back to top](#contents)**
 
-## General automation
+## **General automation**
 
 ### Node RED
 
@@ -66,7 +66,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 #### Node RED flows
 
-- N/A
+- [Home Automation Repository](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions#installationhttps://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
 
 #### Node RED plugins
 
@@ -88,13 +88,13 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 **[⬆ back to top](#contents)**
 
-## Facility management
+## **Facility management**
 
 - [OpenTHC](https://github.com/openthc/docker) - OpenTHC is an environment of web-based applications focused on helping Cannabis/Hemp and Organic Horticulture industry participants meet their regulatory requirements
 
 **[⬆ back to top](#contents)**
 
-## Irrigation
+## **Irrigation**
 
 - [OpenSprinkler AVR/RPI/BBB Firmware](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - This is a unified OpenSprinkler firmware for Arduino, and Linux-based OpenSprinklers such as OpenSprinkler Pi
 
@@ -102,7 +102,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 **[⬆ back to top](#contents)**
 
-## Frameworks
+## **Frameworks**
 
 ### ESPHome
 
@@ -124,7 +124,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 **[⬆ back to top](#contents)**
 
-## Hardware
+## **Hardware**
 
 ### Components
 
@@ -153,7 +153,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 **[⬆ back to top](#contents)**
 
-## Metrics and Logging
+## **Metrics and Logging**
 
 - [OS-RS485](https://github.com/cropsteering/OS-RS485) - OpenSteering-RS485 Data logger
 
@@ -161,26 +161,26 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 **[⬆ back to top](#contents)**
 
-## Mixers and dosers
+## **Mixers and Dosers**
 
-- [WEGA-Mixer](https://github.com/WEGA-project/wega-mixer)
+- [WEGA-Mixer](https://github.com/WEGA-project/wega-mixer) - WEGA-Mixer is a device for the automatic preparation of two-component complex fertilizers in liquids by precisely mixing their composition (RU, requires google translate).
 
 **[⬆ back to top](#contents)**
 
-## MQTT
+## **MQTT**
 
 - [Mosquitto](https://github.com/eclipse/mosquitto) - Mosquitto is an open source implementation of a server for version 5.0, 3.1.1, and 3.1 of the MQTT protocol
 - [EMQX](https://github.com/emqx/emqx) - EMQX is the world's most scalable open-source MQTT broker with a high performance that connects 100M+ IoT devices in 1 cluster, while maintaining 1M message per second throughput and sub-millisecond latency.
 
 **[⬆ back to top](#contents)**
 
-## Relay and power control
+## **Relay and power control**
 
 - [EC-POWERCONTROL](https://github.com/cropsteering/EC-POWERCONTROL) - Edge controller power control for esp32
 
 **[⬆ back to top](#contents)**
 
-## Storing Data
+## **Storing Data**
 
 - [InfluxDB](https://github.com/influxdata/influxdb) - InfluxDB is an open source time series database
 - [Open TSDB](https://github.com/OpenTSDB/opentsdb) - OpenTSDB is a distributed, scalable Time Series Database (TSDB) written on
@@ -188,7 +188,7 @@ top of HBase
 
 **[⬆ back to top](#contents)**
 
-## Visualization
+## **Visualization**
 
 ### Visualization Libraries
 
@@ -206,13 +206,13 @@ top of HBase
 
 **[⬆ back to top](#contents)**
 
-## Zigbee
+## **Zigbee**
 
 - [Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt) - It bridges events and allows you to control your Zigbee devices via MQTT. In this way you can integrate your Zigbee devices with whatever smart home infrastructure you are using.
 
 **[⬆ back to top](#contents)**
 
-## Other Awesome Lists
+## **Other Awesome Lists**
 
 - [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture)
 - [Awesome ESP](https://github.com/agucova/awesome-esp)
