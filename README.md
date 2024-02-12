@@ -1,6 +1,6 @@
-# Awesome Crop Steering
+# Awesome Crop Steering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated list of OpenSource project in indoor/outdoor agriculture automation, crop steering and cannabis cultivation.
+A curated list of OpenSource project in indoor/outdoor agriculture automation, crop steering and cannabis cultivation.
 
 ## Contents
 
@@ -11,7 +11,7 @@ Curated list of OpenSource project in indoor/outdoor agriculture automation, cro
   - [Calculators](#calculators)
   - [General automation](#general-automation)
     - [Home Assistant](#home-assistant)
-        - [Home Assistant Automation](#home-assistant-automation)
+      - [Home Assistant Automation](#home-assistant-automation)
     - [Node RED](#node-red)
   - [Facility management](#facility-management)
   - [Frameworks](#frameworks)
@@ -25,6 +25,7 @@ Curated list of OpenSource project in indoor/outdoor agriculture automation, cro
   - [Visualization](#visualization)
     - [Visualization Libraries](#visualization-libraries)
     - [Visualization platforms](#visualization-platforms)
+  - [Other awesome lists](#other-awesome-lists)
   
 ## AI / ML
 
@@ -156,5 +157,11 @@ top of HBase
 - [Grafana](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability
 
 - [InfluxDB](https://github.com/influxdata/influxdb) - InfluxDB is an open source time series database
+
+**[⬆ back to top](#contents)**
+
+## Other awesome Lists
+
+- [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture)
 
 **[⬆ back to top](#contents)**
