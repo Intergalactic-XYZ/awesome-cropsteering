@@ -35,9 +35,13 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 ## Automation
 
+- [DROMatic OS](https://github.com/drolsen/DRO-Matic) - The DRO-Matic OS has been built to automate nearly every aspect of hydroponic farming for you! From nutrient dosing to pH / EC drift fixing, feeding types to draining, top-offs and even timers; we have quantified everything you need to automate successful crops.
+
 - [MudPi](https://github.com/mudpi/mudpi-core) - A python package to gather sensor readings, trigger components, control devices and more in an event based system that can be run on a linux SBC, including Raspberry Pi
 
 - [Mycodo](https://github.com/kizniche/Mycodo) - Mycodo is open source software for the Raspberry Pi that couples inputs and outputs in interesting ways to sense and manipulate the environment
+
+- [OpenMinder](https://github.com/autogrow/openminder) -  Allows anyone to build a device that can monitor the rootzone of their plants to make the most optimum use of water and fertigation ingredients to ensure a happy plant. This is done by measuring the water going into the plants on the irrigation side, as well as coming out on the runoff side, thus allowing comparisons.
 
 - [WEGA-Box](https://github.com/WEGA-project/wegabox) - Hydroponic system management toolkit
 
@@ -160,8 +164,23 @@ top of HBase
 
 **[⬆ back to top](#contents)**
 
-## Other awesome Lists
+## Zigbee
+
+- [Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt) - It bridges events and allows you to control your Zigbee devices via MQTT. In this way you can integrate your Zigbee devices with whatever smart home infrastructure you are using.
+
+**[⬆ back to top](#contents)**
+
+## Other Awesome Lists
 
 - [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture)
+- [Awesome ESP](https://github.com/agucova/awesome-esp)
+- [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
+- [Awesome InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
+- [Awesome IoT](https://github.com/HQarroum/awesome-iot)
+- [Awesome IoT & Hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
+- [Awesome Open IoT](https://github.com/Agile-IoT/awesome-open-iot)
+- [Awesome MQTT](https://github.com/hobbyquaker/awesome-mqtt)
+- [Awesome Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware)
+- [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
 
 **[⬆ back to top](#contents)**
