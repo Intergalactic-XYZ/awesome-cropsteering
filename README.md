@@ -45,6 +45,8 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 - [Mycodo](https://github.com/kizniche/Mycodo) - Mycodo is open source software for the Raspberry Pi that couples inputs and outputs in interesting ways to sense and manipulate the environment
 
+- [gardenAutomation](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
+
 - [WEGA-Box](https://github.com/WEGA-project/wegabox) - Hydroponic system management toolkit
 
 **[⬆ back to top](#contents)**
@@ -146,7 +148,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 ### DIY
 
-- [OpenSprinkler Hardware](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software.
+- [OpenSprinkler Hardware](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
 
 **[⬆ back to top](#contents)**
 
