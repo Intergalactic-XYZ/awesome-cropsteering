@@ -9,14 +9,18 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
   - [AI/ML](#ai--ml)
   - [Automation](#automation)
   - [Calculators](#calculators)
+  - [Facility management](#facility-management)
+  - [Irrigation](#irrigation)
+  - [Frameworks](#frameworks)
+    - [ESPHome](#esphome)
+    - [Tasmota](#tasmota)
   - [General automation](#general-automation)
     - [Home Assistant](#home-assistant)
       - [Home Assistant Automation](#home-assistant-automation)
     - [Node RED](#node-red)
-  - [Facility management](#facility-management)
-  - [Frameworks](#frameworks)
-    - [ESPHome](#esphome)
-    - [Tasmota](#tasmota)
+  - [Hardware](#hardware)
+    - [Components](#components)
+    - [DIY](#diy)
   - [Metrics and Logging](#metrics-and-logging)
   - [Mixers and dosers](#mixers-and-dosers)
   - [MQTT](#mqtt)
@@ -33,15 +37,13 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 **[⬆ back to top](#contents)**
 
-## Automation
+## Grow Automation
 
 - [DROMatic OS](https://github.com/drolsen/DRO-Matic) - The DRO-Matic OS has been built to automate nearly every aspect of hydroponic farming for you! From nutrient dosing to pH / EC drift fixing, feeding types to draining, top-offs and even timers; we have quantified everything you need to automate successful crops.
 
 - [MudPi](https://github.com/mudpi/mudpi-core) - A python package to gather sensor readings, trigger components, control devices and more in an event based system that can be run on a linux SBC, including Raspberry Pi
 
 - [Mycodo](https://github.com/kizniche/Mycodo) - Mycodo is open source software for the Raspberry Pi that couples inputs and outputs in interesting ways to sense and manipulate the environment
-
-- [OpenMinder](https://github.com/autogrow/openminder) -  Allows anyone to build a device that can monitor the rootzone of their plants to make the most optimum use of water and fertigation ingredients to ensure a happy plant. This is done by measuring the water going into the plants on the irrigation side, as well as coming out on the runoff side, thus allowing comparisons.
 
 - [WEGA-Box](https://github.com/WEGA-project/wegabox) - Hydroponic system management toolkit
 
@@ -50,34 +52,6 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 ## Calculators
 
 - [WEGA-HPG](https://github.com/WEGA-project/wega-hpg) - HPG Calculator
-
-**[⬆ back to top](#contents)**
-
-## Facility management
-
-- [OpenTHC](https://github.com/openthc/docker) - OpenTHC is an environment of web-based applications focused on helping Cannabis/Hemp and Organic Horticulture industry participants meet their regulatory requirements
-
-**[⬆ back to top](#contents)**
-
-## Frameworks
-
-### ESPHome
-
-- [ESPHome](https://github.com/esphome/esphome) - ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems
-
-#### ESPHome Configs
-
-- N/A
-
-**[⬆ back to top](#contents)**
-
-### Tasmota
-
-- [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-
-#### Tasmota Configs
-
-- N/A
 
 **[⬆ back to top](#contents)**
 
@@ -108,6 +82,71 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 #### Home Assistant UI
 
 - N/A
+
+**[⬆ back to top](#contents)**
+
+## Facility management
+
+- [OpenTHC](https://github.com/openthc/docker) - OpenTHC is an environment of web-based applications focused on helping Cannabis/Hemp and Organic Horticulture industry participants meet their regulatory requirements
+
+**[⬆ back to top](#contents)**
+
+## Irrigation
+
+- [OpenSprinkler AVR/RPI/BBB Firmware](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - This is a unified OpenSprinkler firmware for Arduino, and Linux-based OpenSprinklers such as OpenSprinkler Pi
+
+- [OpenMinder](https://github.com/autogrow/openminder) -  Allows anyone to build a device that can monitor the rootzone of their plants to make the most optimum use of water and fertigation ingredients to ensure a happy plant. This is done by measuring the water going into the plants on the irrigation side, as well as coming out on the runoff side, thus allowing comparisons
+
+**[⬆ back to top](#contents)**
+
+## Frameworks
+
+### ESPHome
+
+- [ESPHome](https://github.com/esphome/esphome) - ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems
+
+#### ESPHome Configs
+
+- N/A
+
+**[⬆ back to top](#contents)**
+
+### Tasmota
+
+- [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+
+#### Tasmota Configs
+
+- N/A
+
+**[⬆ back to top](#contents)**
+
+## Hardware
+
+### Components
+
+- [Seed Studio](https://www.seeedstudio.com/) - various modules and components based on ESP32 and other MCU
+- [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32.
+
+#### Sensors
+
+- [Atlas Scientific](https://atlas-scientific.com/probes/) - T/H, Pressure, pH, EC, ORP probes and interface boards. Dosing pumps, flowmeters. Lab grade.
+
+#### MCU and SOC
+
+- [ESP32](https://www.espressif.com/en/products/socs/esp32) - A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications
+
+- [Particle](https://www.particle.io/) - hardware modules for IoT
+
+#### Modular systems
+
+- [WisBlock by RAK Wireless](https://www.rakwireless.com/en-us/products/wisblock) - Create your own hardware with WisBlock Core, WisBlock Base and other WisBlock Modules
+
+**[⬆ back to top](#contents)**
+
+### DIY
+
+- [OpenSprinkler Hardware](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software.
 
 **[⬆ back to top](#contents)**
 
