@@ -1,11 +1,10 @@
 # Awesome Crop Steering
 
+Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoor agriculture automation, crop steering and cannabis cultivation
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Build Status](https://github.com/Intergalactic-XYZ/awesome-cropsteering/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/Intergalactic-XYZ/awesome-cropsteering/actions/workflows/awesome-bot.yml)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Intergalactic-XYZ/awesome-cropsteering/)
-
-
-A curated list of OpenSource project in indoor/outdoor agriculture automation, crop steering and cannabis cultivation.
 
 ## **Contents**
 
