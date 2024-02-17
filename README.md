@@ -66,7 +66,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 #### Node RED flows
 
-- [Home Automation Repository](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions#installationhttps://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
+- [Home Automation Repository](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
 
 #### Node RED plugins
 
@@ -80,7 +80,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 #### Home Assistant Automation
 
-- [HAGR](https://github.com/JakeTheRabbit/HAGR) - Home Assistant Grow Room is a repository for grow automation related things for Home Assistant.
+- [HAGR](https://github.com/JakeTheRabbit/HAGR) - Home Assistant Grow Room is a repository for grow automation related things for Home Assistant
 
 #### Home Assistant UI
 
@@ -158,6 +158,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 - [OS-RS485](https://github.com/cropsteering/OS-RS485) - OpenSteering-RS485 Data logger
 
 - [OpenSteering-SDI12](https://github.com/cropsteering/OS-SDI12) - SDI-12 Data logger, up to 62 addresses
+- [TDR-Sensor](https://github.com/Emperiusm/TDR-Sensor) - A TDR sensor that measures moisture content, EC, and temperature for Rockwool Substrates or Soil Substrates
 
 **[⬆ back to top](#contents)**
 
