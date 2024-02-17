@@ -107,10 +107,11 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 ### ESPHome
 
 - [ESPHome](https://github.com/esphome/esphome) - ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems
+- [PLF10](https://github.com/KaufHA/PLF10/tree/main) - KAUF Power Monitoring Smart Plug (PLF10)
 
 #### ESPHome Configs
 
-- N/A
+- [Aquaponics-Kit](https://github.com/TheRealFalseReality/Aquaponics-Kit) - Code for Atas Scientific Wi-Fi Aquaponics Kit to be compatable with ESPHome and HomeAssistant using Adafruit HUZZAH32 – ESP32 Feather Board
 
 **[⬆ back to top](#contents)**
 
