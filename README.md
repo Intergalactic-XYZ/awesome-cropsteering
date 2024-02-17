@@ -1,4 +1,7 @@
-# Awesome Crop Steering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Crop Steering
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Build Status](https://github.com/Intergalactic-XYZ/awesome-cropsteering/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/Intergalactic-XYZ/awesome-cropsteering/actions/workflows/awesome-bot.yml)
 
 A curated list of OpenSource project in indoor/outdoor agriculture automation, crop steering and cannabis cultivation.
 
