@@ -136,7 +136,9 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 ### Components
 
 - [Seed Studio](https://www.seeedstudio.com/) - various modules and components based on ESP32 and other MCU
-- [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32.
+- [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32
+
+- [Adafruit](https://www.adafruit.com/category/946) - Adafruit ESP32 modules
 
 #### Sensors
 
@@ -157,6 +159,8 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 ### DIY
 
 - [OpenSprinkler Hardware](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
+
+- [SENTSOR Core ESP32-EMBED](https://github.com/adamalfath/sentsor-core-esp32embed) - all-in-one, super low power development board based on latest revision of ESP32 chip. BOM, easyEDA PCB blueprints
 
 **[⬆ back to top](#contents)**
 
