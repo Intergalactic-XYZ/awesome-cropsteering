@@ -33,8 +33,10 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
   - [Visualization](#visualization)
     - [Visualization Libraries](#visualization-libraries)
     - [Visualization platforms](#visualization-platforms)
+  - [Reading](#reading)
+    - [Crop Steering Guides](#crop-steering-guides)
   - [Other awesome lists](#other-awesome-lists)
-  
+
 ## **AI/ML**
 
 - [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
@@ -215,6 +217,18 @@ top of HBase
 ## **Zigbee**
 
 - [Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt) - It bridges events and allows you to control your Zigbee devices via MQTT. In this way you can integrate your Zigbee devices with whatever smart home infrastructure you are using.
+
+**[⬆ back to top](#contents)**
+
+## Reading
+
+### Crop Steering Guides
+
+- [AGROWTEK Crop Steering Guide](https://static.intergalactic-xyz.com/cropsteering/files/AN_CropSteering.pdf)
+
+- [Growlink Crop Steering E-Book V1.4](https://static.intergalactic-xyz.com/cropsteering/files/Growlink%20Crop%20Steering%20E-Book%20V1.4.pdf)
+
+- [Some useful reading and links from Open Steering project](https://cropsteering.xyz/)
 
 **[⬆ back to top](#contents)**
 
