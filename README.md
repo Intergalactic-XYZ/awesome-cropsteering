@@ -56,7 +56,7 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 
 - [WEGA-Box](https://github.com/WEGA-project/wegabox) - Hydroponic system management toolkit
 
--[Potnanny](https://github.com/potnanny/application) - Potnanny turns your Raspberry Pi into powerful grow-room automation system using inexpensive, off-the-shelf Bluetooth sensors, power outlets, and other devices
+- [Potnanny](https://github.com/potnanny/application) - Potnanny turns your Raspberry Pi into powerful grow-room automation system using inexpensive, off-the-shelf Bluetooth sensors, power outlets, and other devices
 
 **[⬆ back to top](#contents)**
 
