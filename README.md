@@ -138,9 +138,12 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 ### Components
 
 - [Seed Studio](https://www.seeedstudio.com/) - various modules and components based on ESP32 and other MCU
+
 - [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32
 
 - [Adafruit](https://www.adafruit.com/category/946) - Adafruit ESP32 modules
+
+- [M5 Stack](https://m5stack.com/) - Standard 5×5cm functionally stacking modularized components hardware system
 
 #### Sensors
 
@@ -163,6 +166,8 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 - [OpenSprinkler Hardware](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
 
 - [SENTSOR Core ESP32-EMBED](https://github.com/adamalfath/sentsor-core-esp32embed) - all-in-one, super low power development board based on latest revision of ESP32 chip. BOM, easyEDA PCB blueprints
+  
+- [Hydromisc](https://github.com/hydromisc/hydromisc) - Asingle PCBA with all the necessary I/O to automate a typical small to mid-size hydroponic grow, controllable over Wi-Fi. It may also be suitable for aquariums, ponds, or any other biological or chemical process involving water treatment
 
 **[⬆ back to top](#contents)**
 
