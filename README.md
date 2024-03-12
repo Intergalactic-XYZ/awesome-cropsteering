@@ -167,7 +167,7 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 
 - [SENTSOR Core ESP32-EMBED](https://github.com/adamalfath/sentsor-core-esp32embed) - all-in-one, super low power development board based on latest revision of ESP32 chip. BOM, easyEDA PCB blueprints
   
-- [Hydromisc](https://github.com/hydromisc/hydromisc) - Asingle PCBA with all the necessary I/O to automate a typical small to mid-size hydroponic grow, controllable over Wi-Fi. It may also be suitable for aquariums, ponds, or any other biological or chemical process involving water treatment
+- [Hydromisc](https://github.com/hydromisc/hydromisc) - A single PCBA with all the necessary I/O to automate a typical small to mid-size hydroponic grow, controllable over Wifi. It may also be suitable for aquariums, ponds, or any other biological or chemical process involving water treatment
 
 **[⬆ back to top](#contents)**
 
