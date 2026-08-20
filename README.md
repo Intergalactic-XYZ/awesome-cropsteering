@@ -11,31 +11,34 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 - [Awesome Crop Steering](#awesome-crop-steering)
   - [Contents](#contents)
   - [AI/ML](#aiml)
-  - [Automation](#grow-automation)
+  - [Grow Automation](#grow-automation)
   - [Calculators](#calculators)
+  - [General automation](#general-automation)
+    - [Node RED](#node-red)
+      - [Node RED flows](#node-red-flows)
+    - [Home Assistant](#home-assistant)
+      - [Home Assistant Automation](#home-assistant-automation)
   - [Facility management](#facility-management)
   - [Irrigation](#irrigation)
   - [Frameworks](#frameworks)
     - [ESPHome](#esphome)
+      - [ESPHome Configs](#esphome-configs)
     - [Tasmota](#tasmota)
-  - [General automation](#general-automation)
-    - [Home Assistant](#home-assistant)
-      - [Home Assistant Automation](#home-assistant-automation)
-    - [Node RED](#node-red)
   - [Hardware](#hardware)
     - [Components](#components)
     - [DIY](#diy)
   - [Metrics and Logging](#metrics-and-logging)
-  - [Mixers and dosers](#mixers-and-dosers)
+  - [Mixers and Dosers](#mixers-and-dosers)
   - [MQTT](#mqtt)
   - [Relay and power control](#relay-and-power-control)
   - [Storing Data](#storing-data)
   - [Visualization](#visualization)
     - [Visualization Libraries](#visualization-libraries)
     - [Visualization platforms](#visualization-platforms)
+  - [Zigbee](#zigbee)
   - [Reading](#reading)
     - [Crop Steering Guides](#crop-steering-guides)
-  - [Other awesome lists](#other-awesome-lists)
+  - [Other Awesome Lists](#other-awesome-lists)
 
 ## **AI/ML**
 
@@ -76,10 +79,6 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 
 - [Home Automation Repository](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
 
-#### Node RED plugins
-
-- N/A
-
 **[⬆ back to top](#contents)**
 
 ### Home Assistant
@@ -89,10 +88,6 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 #### Home Assistant Automation
 
 - [HAGR](https://github.com/JakeTheRabbit/HAGR) - Home Assistant Grow Room is a repository for grow automation related things for Home Assistant
-
-#### Home Assistant UI
-
-- N/A
 
 **[⬆ back to top](#contents)**
 
@@ -119,7 +114,7 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 
 #### ESPHome Configs
 
-- [Aquaponics-Kit](https://github.com/TheRealFalseReality/Aquaponics-Kit) - Code for Atas Scientific Wi-Fi Aquaponics Kit to be compatable with ESPHome and HomeAssistant using Adafruit HUZZAH32 – ESP32 Feather Board
+- [Aquaponics-Kit](https://github.com/TheRealFalseReality/Aquaponics-Kit) - Code for Atas Scientific Wi-Fi Aquaponics Kit to be compatible with ESPHome and HomeAssistant using Adafruit HUZZAH32 – ESP32 Feather Board
 
 **[⬆ back to top](#contents)**
 
@@ -127,19 +122,15 @@ Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoo
 
 - [Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
 
-#### Tasmota Configs
-
-- N/A
-
 **[⬆ back to top](#contents)**
 
 ## **Hardware**
 
 ### Components
 
-- [Seed Studio](https://www.seeedstudio.com/) - various modules and components based on ESP32 and other MCU
+- [Seeed Studio](https://www.seeedstudio.com/) - various modules and components based on ESP32 and other MCU
 
-- [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32
+- [LILYGO](https://www.lilygo.cc/) - various modules and components. Good relay boards based on ESP32
 
 - [Adafruit](https://www.adafruit.com/category/946) - Adafruit ESP32 modules
 
